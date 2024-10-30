@@ -1,0 +1,79 @@
+.tourismbackground{
+    background-image:url("https://img.freepik.com/free-photo/beach-surrounded-by-sea-rocks-greenery-sunlight-praslin-seychelles_181624-21653.jpg?ga=GA1.1.41293097.1729951755&semt=ais_siglip");
+    height:100vh;
+    background-size:cover;
+}
+.tourismbox{
+    background-color:white;
+    padding:5px;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+    text-align:center
+}
+.tourismbutton{
+    width: 138px;
+    height:40px;
+    color:white;
+    background-color:blue;
+    border-radius:20px;
+    border-width:0px;
+}
+.tourismheading{
+    font-family:"Roboto";
+}
+
+
+.fbackground{
+    background-image:url("https://img.freepik.com/free-photo/india-gate-mornings_181624-17306.jpg?ga=GA1.1.41293097.1729951755&semt=ais_siglip");
+    height:100vh;
+    background-size:cover;
+    height:540px;
+    width:500px;
+    margin-left:230px;
+    
+}
+.fh1{
+    color:white;
+    font-family:"Roboto";
+    padding:10px;
+}
+.f1background{
+    background-color:white;
+    border-radius:5px;
+    height:100px;
+    margin:8px;
+}
+.f1para{
+    font-size:8px;
+    padding:5px;
+}
+.fimage{
+    height:100px;
+    width:110px;
+    padding:5px;
+}
+.backbutton{
+    margin-left:460px;
+    margin-top:10px;
+}
+
+.Dbackground{
+    background-image:url("https://img.freepik.com/premium-photo/texture-ocean-mist-gradient-merging-pale-blue-seafoam-green-soft-white-glitter-shimmers-li_1020495-791879.jpg?ga=GA1.1.41293097.1729951755&semt=ais_hybrid");
+    background-size:cover;
+    height:100vh;
+    padding:25px;
+    border-radius:5px;
+}
+.Dh{
+    font-family:"Roboto";
+}
+.Dcontainer{
+    background-color:white;
+    border-radius:10px;
+    height:350px;
+
+}
+.vp{
+    font-size:12px;
+    padding:25px;
+}
